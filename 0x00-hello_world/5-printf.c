@@ -3,7 +3,7 @@
 /**
  * main-Entry
  *
- * Descriptio of code purpose:to  print "with proper grammar, but the outcome is a piece
+ * Descript to  print "with proper grammar, but the outcome is a piece
  * of art,"
  * Return: Always 0
  */
