@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h
+#include <stdlib.h>
 #include <time.h>
 /**
  * main - identify if n is positive, negative or zero
