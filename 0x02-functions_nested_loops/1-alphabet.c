@@ -2,10 +2,10 @@
 
 /**
  * main -  prints _putchar, followed by a new line
- * print_alphabet - prints the alphabet
+ * print_alphabet - Entry point
  * Return: Always 0 (Success)
  */
-/* print_alphabet - prints the alphabet */
+
 void print_alphabet(void)
 {
 	char c = 'a';
