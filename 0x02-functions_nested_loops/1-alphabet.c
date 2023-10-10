@@ -2,6 +2,7 @@
 
 /**
  * main -  prints _putchar, followed by a new line
+ * print_alphabet - prints the alphabet
  * Return: Always 0 (Success)
  */
 
