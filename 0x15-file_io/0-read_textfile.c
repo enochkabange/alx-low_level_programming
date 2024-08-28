@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stddef.h>
+#include <stdlib.h>
 
 /**
  * read_textfile - reads texts files and prints the letters.
@@ -8,10 +10,10 @@
  * Return: numbers of letters printed. When it fails, returns 0.
  */
 
-ssize_t read_textfile(const char *filename, size_t letters)
+size_t read_textfile(const char *filename, size_t letters)
 {
 	int fd;
-	ssize_t nrd, nwr;
+	size_t nrd, nwr;
 	char *buf;
 
 	if (!filename)
