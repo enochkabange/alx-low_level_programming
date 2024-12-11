@@ -1,0 +1,1 @@
+# Directpry for all solutions for tasks on doubly linked list
